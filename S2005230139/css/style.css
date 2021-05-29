@@ -1,0 +1,44 @@
+.div1{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    width: 768px;
+    height: 199.65px;  
+}
+.div2{
+    position: relative;
+    margin: auto;
+    width: 726.65px;
+    height: 149.5px;
+}
+.div3{
+    position: absolute;
+    width:487.03px;
+    height: 142.17px;
+    font-size:28px;
+    flex: 2 2 auto;
+    bottom: 20px;
+}
+h3{
+    font-weight: normal;
+    padding-left: 40px;
+}
+
+.div4{
+    position: absolute;
+    width:487.03px;
+    height: 34.81px;
+    color: #b4b4b4;
+    bottom:-20px;
+    left:40px;
+}
+.hs{
+    color: #ee1a1a;
+    font-size: 26px;
+    padding: 0 .1rem;
+    border: 1px solid rgba(238,26,26,.3);
+    border-radius: 1rem;
+    position: absolute;
+    bottom: 0;
+    right: .12rem;
+}
